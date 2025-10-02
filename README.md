@@ -50,7 +50,7 @@ php artisan serve
 
 ## Tecnologias
 - PHP (Laravel)
-- MySQL ou SQLite
+- MySQL ou SQLite //Utilizei o SQlite
 - Blade (template engine)
 - Tailwind CSS
 - JavaScript
